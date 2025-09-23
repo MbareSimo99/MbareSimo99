@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Simo, an Italian Backend and Cybersecurity Developer 👋🏼:
-🛜 currently working on my own [webpage](https://simodev.vercel.app/)<br>👨🏼‍🎓 studying Computer Science at University of Catania<br>👨🏼‍💻 Learning Laravel - Springboot<br>
+🛜 currently working on [webpage](https://aryaplus.it/)<br>👨🏼‍🎓 studying Computer Science at University of Catania<br>👨🏼‍💻 Learning Laravel - Springboot<br>
 
 
 ## 💻 Tech Stack
