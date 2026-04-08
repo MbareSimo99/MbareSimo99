@@ -25,7 +25,7 @@
   ║  ◈  Role     →  Backend & Cybersecurity Developer                ║
   ║  ◈  Company  →  Aryaplus  [ aryaplus.it ]                        ║
   ║  ◈  Uni      →  Computer Science @ University of Catania         ║
-  ║  ◈  Learning →  Operating systems - Compilers                    ║
+  ║  ◈  Learning →  Operating System  ·  Compilers                   ║
   ║  ◈  Base     →  Catania, Sicily                                  ║
   ║  ◈  Status   →  [ ██████████░░░░ ] compiling life.jar ...        ║
   ║                                                                  ║
@@ -81,14 +81,14 @@ class Simo:
     def __init__(self):
         self.name        = "Simo"
         self.role        = ["Backend Developer", "Cybersecurity Enthusiast"]
-        self.languages   = ["it_IT", "en_US"]  # madrelingua + inglese
+        self.languages   = ["it_IT", "en_US"]
         self.company     = "Aryaplus"
         self.university  = "UniCT — Computer Science"
 
     def currently_doing(self):
         return {
             "building"  : "Aryaplus platform 🚀",
-            "learning"  : ["Operating Systems", "Compilers"],
+            "learning"  : ["Operating System", "Compilers"],
             "obsessed_with": ["clean architecture", "ethical hacking", "performance"],
         }
 
@@ -104,25 +104,24 @@ me.currently_doing()
 
 ---
 
-## 📊 &nbsp;`// STATS`
+## 🚀 &nbsp;`// PROJECTS`
 
 <br>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=simooo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=040806&title_color=d4af37&icon_color=00ff41&text_color=a0a0a0&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simooo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=040806&title_color=d4af37&text_color=a0a0a0" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=simooo&theme=dark&hide_border=true&background=040806&ring=d4af37&fire=ff3c3c&currStreakLabel=00ff41&sideLabels=a0a0a0&dates=4a8a4a&currStreakNum=00ff41&sideNums=d4af37)](https://git.io/streak-stats)
-
-</div>
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  root@simo:~$ ls -la ./projects/                                 ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║                                                                  ║
+  ║  ◈  Aryaplus          →  [ LIVE ]  aryaplus.it                   ║
+  ║     Corporate frontend                                           ║
+  ║                                                                  ║
+  ║  ◈  [REDACTED]        →  [ WIP  ]  private access only           ║
+  ║     root@simo:~$ cat project2.txt                                ║
+  ║     bash: permission denied  —  try harder                       ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
