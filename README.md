@@ -148,8 +148,8 @@ me.currently_doing()
 ```
   ┌─────────────────────────────────────────────┐
   │  root@simo:~$ echo "grazie per la visita"   │
-  │  grazie per la visita                        │
-  │  root@simo:~$ █                              │
+  │  grazie per la visita                       │
+  │  root@simo:~$ █                             │
   └─────────────────────────────────────────────┘
 ```
 
